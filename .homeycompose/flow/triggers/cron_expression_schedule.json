@@ -1,4 +1,5 @@
 {
+  "deprecated": true,
   "id": "cron_expression_schedule",
   "title": {
     "en": "Schedule triggered",

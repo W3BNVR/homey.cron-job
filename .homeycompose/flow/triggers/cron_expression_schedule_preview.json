@@ -1,0 +1,33 @@
+{
+  "title": {
+    "en": "Schedule with explanation",
+    "nl": "Schema met uitleg",
+    "de": "Zeitplan mit Erklärung"
+  },
+  "titleFormatted": {
+    "en": "Schedule [[schedule]] triggered",
+    "nl": "Schema [[schedule]] gestart",
+    "de": "Zeitplan [[schedule]] ausgelöst"
+  },
+  "hint": {
+    "en": "Type a 5- or 6-field cron expression. Its meaning appears in the Homey suggestion.",
+    "nl": "Typ een cron-expressie van 5 of 6 velden. Homey toont de uitleg bij de suggestie.",
+    "de": "Gib einen Cron-Ausdruck mit 5 oder 6 Feldern ein. Homey zeigt die Erklärung beim Vorschlag."
+  },
+  "args": [
+    {
+      "name": "schedule",
+      "type": "autocomplete",
+      "title": {
+        "en": "Cron expression",
+        "nl": "Cron-expressie",
+        "de": "Cron-Ausdruck"
+      },
+      "placeholder": {
+        "en": "* * * * * *",
+        "nl": "* * * * * *",
+        "de": "* * * * * *"
+      }
+    }
+  ]
+}

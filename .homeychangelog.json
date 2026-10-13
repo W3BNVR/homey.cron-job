@@ -7,5 +7,13 @@
   },
   "1.1.1": {
     "en": "Added hints to flow cards, added homey comunity topic id"
+  },
+  "1.2.0": {
+    "en": "Added an explanation and next run information to the cron Flow trigger",
+    "nl": "Uitleg en informatie over de volgende uitvoering toegevoegd aan de cron-Flowkaart"
+  },
+  "1.2.1": {
+    "en": "Set the initial cron expression to every second",
+    "nl": "De beginexpressie ingesteld op elke seconde"
   }
 }
